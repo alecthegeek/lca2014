@@ -3,6 +3,10 @@ Hello LCA 2014 tutorial-goer!
 First, if you use Windows, I'm sorry; this should work, but you'll have to
 modify the directions for your setup.
 
+Slides are at http://www.slideshare.net/dreamwidth/lca2014-introduction-to-go
+
+Video at http://mirror.linux.org.au/linux.conf.au/2014/Thursday/95-Introduction_to_Go_-_Mark_Smith.mp4
+
 To prepare for this tutorial, please:
 
   1. Open up your favorite shell (bash/zsh/fish)
